@@ -1,22 +1,74 @@
-{
-   "Mobile": [
-      {
-         "Used": 10,
-         "Units": "Data",
-         "DaysRemaining": 20,
-         "TotalData": "40"
-      },
-      {
-         "Used": 23,
-         "Units": "Minutes",
-         "DaysRemaining": 20,
-         "TotalData": "Unlimited"
-      },
-      {
-         "Used": 100,
-         "Units": "Texts",
-         "DaysRemaining": 20,
-         "TotalData": "Unlimited"
-      }
-   ]
-}
+[
+ {
+   "ClientID": 2019001,
+   "Type": "Mobile",
+   "Used": 10,
+   "Units": "Data",
+   "DaysRemaining": 20,
+   "TotalData": "40"
+ },
+ {
+   "ClientID": 2019001,
+   "Type": "Mobile",
+   "Used": 23,
+   "Units": "Minutes",
+   "DaysRemaining": 20,
+   "TotalData": "Unlimited"
+ },
+ {
+   "ClientID": 2019001,
+   "Type": "Mobile",
+   "Used": 100,
+   "Units": "Texts",
+   "DaysRemaining": 20,
+   "TotalData": "Unlimited"
+ },
+ {
+   "ClientID": 2019004,
+   "Type": "Mobile",
+   "Used": 5,
+   "Units": "Data",
+   "DaysRemaining": 20,
+   "TotalData": "40"
+ },
+ {
+   "ClientID": 2019004,
+   "Type": "Mobile",
+   "Used": 55,
+   "Units": "Minutes",
+   "DaysRemaining": 20,
+   "TotalData": "Unlimited"
+ },
+ {
+   "ClientID": 2019004,
+   "Type": "Mobile",
+   "Used": 152,
+   "Units": "Texts",
+   "DaysRemaining": 20,
+   "TotalData": "Unlimited"
+ },
+ {
+   "ClientID": 2019006,
+   "Type": "Mobile",
+   "Used": 8,
+   "Units": "Data",
+   "DaysRemaining": 20,
+   "TotalData": "40"
+ },
+ {
+   "ClientID": 2019006,
+   "Type": "Mobile",
+   "Used": 20,
+   "Units": "Minutes",
+   "DaysRemaining": 20,
+   "TotalData": "Unlimited"
+ },
+ {
+   "ClientID": 2019006,
+   "Type": "Mobile",
+   "Used": 82,
+   "Units": "Texts",
+   "DaysRemaining": 20,
+   "TotalData": "Unlimited"
+ }
+]
