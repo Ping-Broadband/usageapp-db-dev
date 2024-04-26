@@ -1,0 +1,22 @@
+{
+   "Mobile": [
+      {
+         "Used": 10,
+         "Units": "Data",
+         "DaysRemaining": 20,
+         "TotalData": "40"
+      },
+      {
+         "Used": 23,
+         "Units": "Minutes",
+         "DaysRemaining": 20,
+         "TotalData": "Unlimited"
+      },
+      {
+         "Used": 100,
+         "Units": "Texts",
+         "DaysRemaining": 20,
+         "TotalData": "Unlimited"
+      }
+   ]
+}
